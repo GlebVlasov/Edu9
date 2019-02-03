@@ -46,7 +46,7 @@ public class MainActivity extends Activity {
         // массив имен атрибутов, из которых будут читаться данные
         String[] from = { ATTRIBUTE_NAME_TEXT, ATTRIBUTE_NAME_CHECKED,
                 ATTRIBUTE_NAME_IMAGE };
-        // массив ID View-компонентов, в которые будут вставлять данные
+        // массив ID View-компонентов, в которые будут вставлять данныеjhjjhjh
         int[] to = { R.id.tvText, R.id.cbChecked, R.id.ivImg };
 
         // создаем адаптерbbbb
