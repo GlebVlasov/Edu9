@@ -31,7 +31,7 @@ public class MainActivity extends Activity {
         boolean[] checked = { true, false, false, true, false };
         int img = R.mipmap.ic_launcher;
 
-        // упаковываем данные в понятную для адаптера структуру
+        // упаковываем данные в понятную для адаптера структуруfff
         ArrayList<Map<String, Object>> data = new ArrayList<Map<String, Object>>(
                 texts.length);
         Map<String, Object> m;
